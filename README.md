@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14.2%2B-black?logo=next.js)](https://nextjs.org/)
 [![Groq AI](https://img.shields.io/badge/Groq-GPT--OSS--120B%20%7C%20Llama3-orange?logo=groq)](https://groq.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Vercel Ready](https://img.shields.io/badge/Vercel-Deploy--Ready-000000?logo=vercel)](https://vercel.com/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSudheer2130%2Fspecter-instagram-osint&env=GROQ_API_KEY&envDescription=Free%20Groq%20API%20Key%20from%20console.groq.com)
 
 > **SPECTER** is an open-source, full-stack **Autonomous Social Media Intelligence & Behavioral Profiling Engine** built with Next.js, Groq AI, and high-fidelity OpenGraph forensic crawlers. It analyzes public Instagram profiles to extract behavioral patterns, psychological archetypes, likes/dislikes, hobbies, commercial footprints, and visual forensics across posts, reels, and story highlights.
 
