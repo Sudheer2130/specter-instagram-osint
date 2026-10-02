@@ -1,0 +1,19 @@
+{
+  "name": "specter-insta-osint",
+  "version": "1.0.0",
+  "description": "Deep Instagram Intelligence & Behavioral OSINT Search Engine",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.453.0",
+    "groq-sdk": "^0.7.0"
+  }
+}
